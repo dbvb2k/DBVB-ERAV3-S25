@@ -2,6 +2,8 @@
 
 This MCP server integrates with Gmail to enable sending, removing, reading, drafting, and responding to emails.
 
+> **Original Project**: This documentation is based on the [Gmail MCP Server](https://github.com/jasonsum/gmail-mcp-server) by Jason Sum.  This code base is used to send emails in my project.
+
 > Note: This server enables an MCP client to read, remove, and send emails. However, the client prompts the user before conducting such activities. 
 
 ## Components
