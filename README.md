@@ -11,6 +11,7 @@ The Paint MCP Server project consists of two main components:
 
 This system allows users to perform calculations and automatically visualize the results in Microsoft Paint through natural language queries.
 
+> **Related Projects**: Check out the [Gmail MCP Server](README_GMAIL.md) for email automation capabilities.
 
 ## Features
 
