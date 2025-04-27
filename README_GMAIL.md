@@ -4,9 +4,6 @@ This MCP server integrates with Gmail to enable sending, removing, reading, draf
 
 > Note: This server enables an MCP client to read, remove, and send emails. However, the client prompts the user before conducting such activities. 
 
-https://github.com/user-attachments/assets/5794cd16-00d2-45a2-884a-8ba0c3a90c90
-
-
 ## Components
 
 ### Tools
